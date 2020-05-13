@@ -1,0 +1,180 @@
+html { 
+  background-color: #111C31;
+  margin-bottom: 0;
+}
+body { background-color: #1e1e1e;
+       margin-top: 16px;;
+       padding-top: 0;
+       margin-left: 50px;
+       margin-right: 50px;
+       margin-bottom: 0;
+       min-height: 800px;;
+       box-shadow: 3px 3px 3px #000000;
+}
+main { margin-top: 0;
+}
+#title {
+  text-align: left;
+  padding-left: 3%;
+  padding-top: 15px;
+}
+nav { margin-left: 35%;
+      margin-top: 0;
+      font-family: "Alef", sans-serif;
+      background-color: #777777;
+      text-align: center;
+      padding-top: 15px;
+      padding-bottom: 14px;
+      font-size: 18pt;
+      position: fixed;
+      width: 50%;
+      clear: right;
+}
+nav a { text-decoration: none;
+        margin-right: 0;
+        margin-left: 0;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        color: #000000;
+        font-size: 20pt;
+        padding-left: 20px;
+        padding-right: 20px;
+}
+#active {
+  background-color: #333333;
+  color: #CCCCCC;
+}
+a { 
+  text-decoration: none; 
+}
+a:hover {
+  background-color: #555555;
+}
+#latest {
+  text-decoration: underline;
+  color: #FFFFFF;
+  float: right;
+  margin-right: 4%;
+}
+#link {
+  text-decoration: underline;
+  color: #FFFFFF;
+  margin-right: 4%;
+}
+h1 { color: #FFFFFF;
+     text-align: center;
+     font-size: 28pt;
+     font-family: "Helvetica", sans-serif;
+     clear: left;
+     padding-left: 4%;
+     margin-right: 4%;
+     margin-top: 0;
+     margin-bottom: 0;
+}
+
+#heading {
+  font-size: 46pt;
+}
+h2 { color: #FFFFFF;
+     text-align: left;
+     font-size: 24pt;
+     font-family: "Helvetica", sans-serif;
+}
+h3 {
+  color: #FFFFFF;
+}
+h4 {
+  color: #FFFFFF;
+  text-align: left;
+  font-family: "Helvetica", sans-serif;
+
+}
+#recentdate {
+  color: #FFFFFF;
+  text-align: left;
+  font-size: 14pt;
+  font-family: "Helvetica", sans-serif;
+  clear: left;
+  padding-left: 8%;
+  margin-right: 4%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+img { float: right;
+      margin-right: 20px;
+}
+
+div {
+  float: left;
+  width: 40%;
+  margin-top: 65px;
+}
+#headshot { 
+  height: 207px;
+  width: 160px;
+  padding-bottom: 15px;
+}
+#welcome {
+  display: inline-block;
+  margin-left: 0;
+  min-width: 50%;
+  font-size: 16pt;
+}
+#about {
+  display: inline-block;
+  margin-left: 10%;
+  width: 30%;
+}
+#projectnames {
+  display: inline-block;
+  margin-left: 10%;
+  padding-right: 5%;
+  width: 20%;
+  font-size: 16pt;
+  text-align: center;
+}
+#projectdesc {
+  display: inline-block;
+  margin-left: 0;
+  padding-right: 5%;
+  width: 40%;
+  font-size: 16pt;
+}
+#reflections {
+  display: inline-block;
+  margin-left: 0;
+  margin-top: 65px;
+  width: 20%;
+  font-size: 16pt;
+}
+#main {
+    padding-bottom: 20px;
+    text-align: left;
+    clear: left;
+    margin-left: 10%;
+}
+#right {
+    text-align: right;
+    clear: right;
+    margin-right: 20px;
+    padding-right: 0;
+}
+#left {
+  text-align: left;
+  clear: left;
+  margin-left: 2%;
+  padding-left: 0;
+}
+#block {
+  display: inline-block;
+  border-style: solid;
+  border-color: #FFFFFF;
+  border-width: 2px 2px 2px 2px;
+  width: 20%;
+  min-height: 30%;
+  margin-left: 16%;
+  margin-right: 0;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
